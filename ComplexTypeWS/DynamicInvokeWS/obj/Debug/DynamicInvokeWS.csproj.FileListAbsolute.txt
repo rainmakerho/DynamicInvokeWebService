@@ -1,0 +1,7 @@
+d:\ComplexTypeWS\DynamicInvokeWS\bin\Debug\DynamicInvokeWS.exe.config
+d:\ComplexTypeWS\DynamicInvokeWS\bin\Debug\DynamicInvokeWS.exe
+d:\ComplexTypeWS\DynamicInvokeWS\bin\Debug\DynamicInvokeWS.pdb
+d:\ComplexTypeWS\DynamicInvokeWS\bin\Debug\Newtonsoft.Json.dll
+d:\ComplexTypeWS\DynamicInvokeWS\obj\Debug\DynamicInvokeWS.csprojResolveAssemblyReference.cache
+d:\ComplexTypeWS\DynamicInvokeWS\obj\Debug\DynamicInvokeWS.exe
+d:\ComplexTypeWS\DynamicInvokeWS\obj\Debug\DynamicInvokeWS.pdb

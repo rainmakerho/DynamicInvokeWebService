@@ -1,0 +1,5 @@
+d:\ComplexTypeWS\ComplexTypeWS\bin\ComplexTypeWS.dll.config
+d:\ComplexTypeWS\ComplexTypeWS\bin\ComplexTypeWS.dll
+d:\ComplexTypeWS\ComplexTypeWS\bin\ComplexTypeWS.pdb
+d:\ComplexTypeWS\ComplexTypeWS\obj\Debug\ComplexTypeWS.dll
+d:\ComplexTypeWS\ComplexTypeWS\obj\Debug\ComplexTypeWS.pdb
